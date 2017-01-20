@@ -1,2 +1,10 @@
 Marte es el cuarto planeta del sistema solar
 Es conocido como el planeta rojo
+<<<<<<< HEAD
+=======
+Uno de los planetas mas cercanos a la Tierra
+Han encontrado agua congelada en Marte
+Esta es la modificación que esta haciendo chava:
+Existe especulación sobre la posibilidad de poblar este planeta en unos años
+
+>>>>>>> 376d5a28e8bcbd732a680bb25a1362c191590820
